@@ -1,0 +1,3 @@
+Samples	Accuracy
+Train	Val	Test	Val	Test
+78200	11040	2760	98.85	98.91
